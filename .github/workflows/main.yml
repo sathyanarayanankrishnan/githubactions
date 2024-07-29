@@ -5,7 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: Welcome to Github Actions
-       run: echo "my first job"
-
-      -name: Second Steps in github actions
-       run: echo "this is second job" 
+      run: echo "my first job"
